@@ -1,0 +1,21 @@
+{
+  "name": "watson-image-classifier",
+  "version": "1.0.0",
+  "description": "Image classifier using IBM Watson",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadfawcett/watson-image-classifier.git"
+  },
+  "author": "Chad Fawcett <me@chadf.ca>",
+  "bugs": {
+    "url": "https://github.com/chadfawcett/watson-image-classifier/issues"
+  },
+  "homepage": "https://github.com/chadfawcett/watson-image-classifier#readme",
+  "dependencies": {
+    "watson-developer-cloud": "^2.21.1",
+    "yargs": "^6.6.0"
+  }
+}
